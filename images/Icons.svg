@@ -1,0 +1,12 @@
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" width="75.333" height="75.333" viewBox="0 0 75.333 75.333">
+  <g id="Outlined" transform="translate(0 0)" opacity="0.6">
+    <g id="Av" transform="translate(0 0)">
+      <g id="Outlined-_-AV-_-play_circle_filled_white" data-name="Outlined-/-AV-/-play_circle_filled_white">
+        <g id="Group_1" data-name="Group 1">
+          <path id="Path" d="M0,0H75.333V75.333H0Z" fill="none"/>
+          <path id="_-Icon-Color" data-name="🔹-Icon-Color" d="M33.389,2A31.389,31.389,0,1,0,64.778,33.389,31.4,31.4,0,0,0,33.389,2Zm0,56.5A25.111,25.111,0,1,1,58.5,33.389,25.144,25.144,0,0,1,33.389,58.5ZM27.111,47.514,45.944,33.389,27.111,19.264Z" transform="translate(4.278 4.278)" fill="rgba(255,255,255,0.75)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

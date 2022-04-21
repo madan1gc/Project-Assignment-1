@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80.778" height="81.055" viewBox="0 0 80.778 81.055">
+  <defs>
+    <filter id="_-Icon-Color" x="0" y="0.278" width="80.778" height="80.778" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Av" transform="translate(2.722)" opacity="0.46">
+    <g id="Outlined-_-AV-_-play_circle_filled_white" data-name="Outlined-/-AV-/-play_circle_filled_white">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path" d="M0,0H75.333V75.333H0Z" fill="none"/>
+        <g transform="matrix(1, 0, 0, 1, -2.72, 0)" filter="url(#_-Icon-Color)">
+          <path id="_-Icon-Color-2" data-name="🔹-Icon-Color" d="M33.389,2A31.389,31.389,0,1,0,64.778,33.389,31.4,31.4,0,0,0,33.389,2Zm0,56.5A25.111,25.111,0,1,1,58.5,33.389,25.144,25.144,0,0,1,33.389,58.5ZM27.111,47.514,45.944,33.389,27.111,19.264Z" transform="translate(7 4.28)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
